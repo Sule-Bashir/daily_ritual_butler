@@ -18,7 +18,9 @@ Test the app **right now** in your browser:
 2. **Go to** [**DartPad.dev**](https://dartpad.dev/)
 3. **Delete** the default code in DartPad
 4. **Paste** your `main.dart` code
-5. **Click** **"Run"**
+5. or visit the below 👇 
+6. https://dartpad.dev/
+7. **Click** **"Run"**
 
 The app will run instantly, allowing you to:
 - Check/uncheck rituals
@@ -59,7 +61,7 @@ daily_ritual_butler/
 └── assets/ # Images and icons (optional)
 
 ## 🤝 Team
-Built with ❤️ for the **Serverpod Hackathon 2025** by [Your Name/Team Name]
+Built with ❤️ for the **Serverpod Hackathon 2025** by [Sule Bashir]
 
 ## 📄 License
 MIT License - See LICENSE file for details
